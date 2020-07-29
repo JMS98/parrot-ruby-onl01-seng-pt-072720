@@ -3,5 +3,7 @@
 
 def parrot(phrase)
   puts phrase
-    return phrase
+  return phrase
+end
+
     
